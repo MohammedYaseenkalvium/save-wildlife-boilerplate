@@ -67,16 +67,24 @@ footer {
 }
 .text-white{
   display: flex;
+  /* justify content is for making the nav bar horizontal */
   justify-content: center;
+  /* inorder to align the content center */
 
 }
 .container{
   display: flex;
+  /* inorder to make the container div to make the div */
   justify-self: center;
+  /* align the content to center */
   justify-content: space-evenly;
+  /* spacing the content evenly */
   align-items: center;
+  /* vertically aligning the content center */
 }
 #credits{
   display: flex;
+  /* aligning the footer to center  */
   align-items: center;
+  /* thank you for joining me  */
 }

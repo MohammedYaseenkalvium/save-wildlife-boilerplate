@@ -65,3 +65,18 @@ footer {
   min-height: 100%;
   padding: 10% 0%;
 }
+.text-white{
+  display: flex;
+  justify-content: center;
+
+}
+.container{
+  display: flex;
+  justify-self: center;
+  justify-content: space-evenly;
+  align-items: center;
+}
+#credits{
+  display: flex;
+  align-items: center;
+}
